@@ -37,7 +37,7 @@
 <h3 align="center"> Connect with Me <br> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kavinda ravihansa/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a></a>
+<a href="https://www.linkedin.com/in/kavinda-ravihansa-2b353b300/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a></a>
 </p>
 
 ---
