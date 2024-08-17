@@ -26,9 +26,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavinda99r&show_icons=true&theme=tokyonight" alt="Kavinda's GitHub Status" width="500" height="250"/> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinda99r&theme=tokyonight" alt="Kavinda's GitHub Streak" width="500" height="250"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kavinda99r&show_icons=true&theme=tokyonight" alt="Kavinda's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinda99r&theme=tokyonight" alt="Kavinda's GitHub Streak" />
 </p>
 
 
