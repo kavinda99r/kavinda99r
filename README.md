@@ -1,6 +1,8 @@
 <div align="center" width="100%">
-  <img src="https://capsule-render.vercel.app/api?color=0:1976d2,100:9c27b0&height=150&section=header&text=&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn" 
+  <img src="https://capsule-render.vercel.app/api?color=0:407AFE,100:9C42FE&height=150&section=header&text=&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn" 
   alt="header" width="100%"/>
+
+
 </div>
 
 
@@ -12,31 +14,31 @@
 </div>
 <h3 align="center">A Passionate Frontend Developer</h3>
 
-<h3 align="left">About Me</h3>
-
+---
+<p align="center">
 💻 I’m currently learning **MERN Stack**
+</p>
+
 
 ---
 
-<h3 align="left">GitHub Status</h3>
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
+<h3 align="center">GitHub Status</h3>
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavinda99r&show_icons=true&theme=tokyonight" alt="Kavinda's GitHub Stats" width="500" height="250"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavinda99r&show_icons=true&theme=tokyonight" alt="Kavinda's GitHub Status" width="500" height="250"/> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinda99r&theme=tokyonight" alt="Kavinda's GitHub Streak" width="500" height="250"/>
+
 </p>
 
 
 
-
 ---
 
 
-<h3 align="left">Languages and Tools</h3>
-
-<p align="left"> 
+<h3 align="center">Languages and Tools</h3>
+<br>
+<p align="center"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40" /> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> 
