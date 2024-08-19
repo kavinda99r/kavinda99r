@@ -16,7 +16,7 @@
 
 ---
 <p align="center">
-💻 I’m currently learning **MERN Stack**
+💻 I’m currently learning MERN Stack
 </p>
 
 
