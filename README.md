@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm Kavinda Ravihansa</h1>
 <div align="center">
   <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About Me GIF" />
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="60px" alt="About Me GIF" />
   </picture>
 </div>
 <h3 align="center">A Passionate Frontend Developer</h3>
