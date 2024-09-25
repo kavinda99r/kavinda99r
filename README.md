@@ -40,18 +40,18 @@
 <p align="center"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40" /> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwindcss" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="MUI" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="illustrator" width="40" height="40"/> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="MUI" width="40" height="40"/>  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="illustrator" width="40" height="40"/>   
 </p>     
 
 
