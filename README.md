@@ -23,7 +23,7 @@
 I'm a passionate Front-End Developer who loves bringing ideas to life in the browser. With a strong focus on user experience and responsive design, I build clean and efficient web applications.
 </p>
 <p align="center">
-💻 <br> — &nbsp; Learning and improving my skills in ReactJS, CSS, JavaScript, and Tailwind CSS &nbsp; —
+— &nbsp; Learning and improving my skills in ReactJS, CSS, JavaScript, and Tailwind CSS &nbsp; —
 </p>
 <p align="center">
 — &nbsp; I’m currently learning MERN Stack &nbsp; —
@@ -31,7 +31,7 @@ I'm a passionate Front-End Developer who loves bringing ideas to life in the bro
 </p>
 
 <br>
-<h2 align="center" >GitHub Status </h2>
+<h2 align="center" >📈 GitHub Status </h2>
 
 <br>
 
@@ -45,7 +45,7 @@ I'm a passionate Front-End Developer who loves bringing ideas to life in the bro
 <br>
 
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">⚡ Languages and Tools</h2>
 
 <p align="center"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40" /> 
