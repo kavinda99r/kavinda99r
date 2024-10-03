@@ -31,7 +31,7 @@ I'm a passionate Front-End Developer who loves bringing ideas to life in the bro
 </p>
 
 <br>
-<h2 align="center" >About Me <br> </h2>
+<h2 align="center" >GitHub Status </h2>
 
 <br>
 
