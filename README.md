@@ -7,6 +7,7 @@
 
 
 <h1 align="center">Hi, I'm Kavinda Ravihansa</h1>
+<br>
 <div align="center">
   <picture>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="60px" alt="About Me GIF" />
@@ -14,15 +15,25 @@
 </div>
 <h3 align="center">A Passionate Frontend Developer</h3>
 
----
+<br>
+
 <p align="center">
-💻 I’m currently learning MERN Stack
+<h2 align="center">🚀 About Me </h2>
+<p align="center">
+I'm a passionate Front-End Developer who loves bringing ideas to life in the browser. With a strong focus on user experience and responsive design, I build clean and efficient web applications.
+</p>
+<p align="center">
+💻 <br> — &nbsp; Learning and improving my skills in ReactJS, CSS, JavaScript, and Tailwind CSS &nbsp; —
+</p>
+<p align="center">
+— &nbsp; I’m currently learning MERN Stack &nbsp; —
+</p>
 </p>
 
+<br>
+<h2 align="center" >About Me <br> </h2>
 
----
-
-<h3 align="center">GitHub Status</h3>
+<br>
 
 
 <p align="center">
@@ -31,11 +42,10 @@
 </p>
 
 
+<br>
 
----
 
-
-<h3 align="center">Languages and Tools</h3>
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40" /> 
