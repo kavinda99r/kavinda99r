@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi, I'm Kavinda Ravihansa</h1>
-<br>
+
 <div align="center">
   <picture>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="60px" alt="About Me GIF" />
