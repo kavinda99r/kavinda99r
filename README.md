@@ -23,10 +23,10 @@
 I'm a passionate Front-End Developer who loves bringing ideas to life in the browser. With a strong focus on user experience and responsive design, I build clean and efficient web applications.
 </p>
 <p align="center">
-— &nbsp; Learning and improving my skills in ReactJS, CSS, JavaScript, and Tailwind CSS &nbsp; —
+Learning and improving my skills in ReactJS, CSS, JavaScript, and Tailwind CSS
 </p>
 <p align="center">
-— &nbsp; I’m currently learning MERN Stack &nbsp; —
+I’m currently learning MERN Stack
 </p>
 </p>
 
