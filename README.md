@@ -20,7 +20,7 @@
 <p align="center">
 <h2 align="center">🚀 About Me </h2>
 <p align="center">
-I'm a passionate Full-Stack Developer who thrives on turning ideas into functional, user-friendly web applications. With a strong focus on both front-end and back-end development, I build clean, scalable, and efficient solutions that enhance user experience and performance.
+Passionate Full-Stack Developer specializing in the MERN stack. I build clean, efficient, and user-friendly web applications with a focus on responsive design and seamless user experience. Skilled in JavaScript, ReactJS, Node.js, MongoDB, ExpressJS, and Tailwind CSS, constantly learning and improving.
 
 
 </p>
