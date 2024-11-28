@@ -24,9 +24,7 @@ Passionate Full-Stack Developer specializing in the MERN stack. I build clean, e
 
 
 </p>
-<p align="center">
-With a solid foundation in front-end development, including ReactJS, CSS, JavaScript, and Tailwind CSS, I also dive deep into backend development, utilizing Node.js and Express for efficient server-side logic and MongoDB for data management.
-</p>
+
 
 </p>
 
