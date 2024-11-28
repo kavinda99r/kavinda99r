@@ -20,14 +20,14 @@
 <p align="center">
 <h2 align="center">🚀 About Me </h2>
 <p align="center">
-I'm a passionate Front-End Developer who loves bringing ideas to life in the browser. With a strong focus on user experience and responsive design, I build clean and efficient web applications.
+I'm a passionate Full-Stack Developer who thrives on turning ideas into functional, user-friendly web applications. With a strong focus on both front-end and back-end development, I build clean, scalable, and efficient solutions that enhance user experience and performance.
+
+
 </p>
 <p align="center">
-Learning and improving my skills in ReactJS, CSS, JavaScript, and Tailwind CSS
+With a solid foundation in front-end development, including ReactJS, CSS, JavaScript, and Tailwind CSS, I also dive deep into backend development, utilizing Node.js and Express for efficient server-side logic and MongoDB for data management.
 </p>
-<p align="center">
-I’m currently learning MERN Stack
-</p>
+
 </p>
 
 <br>
