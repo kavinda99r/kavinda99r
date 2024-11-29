@@ -13,7 +13,7 @@
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="60px" alt="About Me GIF" />
   </picture>
 </div>
-<h3 align="center">Full Stack Developer | Frontend Developer | UI/UX Desginer</h3>
+<h3 align="center">Full Stack Developer | Frontend Developer | UI/UX Designer</h3>
 
 <br>
 
