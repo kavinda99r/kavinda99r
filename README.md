@@ -35,9 +35,10 @@ Passionate Full-Stack Developer specializing in the MERN stack. I build clean, e
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavinda99r&show_icons=true&theme=tokyonight" alt="Kavinda's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinda99r&theme=tokyonight" alt="Kavinda's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kavinda99r&show_icons=true&theme=tokyonight" alt="Kavinda's GitHub Stats" width="420" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinda99r&theme=tokyonight" alt="Kavinda's GitHub Streak" width="420" height="165" />
 </p>
+
 
 
 <br>
