@@ -73,7 +73,7 @@ I'm a **Full Stack Developer** specialising in **React, Next.js, Node.js and Pos
   <!-- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-1769FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <!-- <a href="#"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a> -->
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:kavinda99ac@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center"><i>⭐ If you like my work, consider giving a repo a star. It means a lot!</i></p>
