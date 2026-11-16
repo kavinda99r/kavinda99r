@@ -36,7 +36,7 @@ I'm a **Full Stack Developer** specialising in **React, Next.js, Node.js and Pos
 <h3 align="center">🤝 Let's Connect</h3>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-1769FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="mailto:kavinda99ac@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://kavinda-ravihansa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1769FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="mailto:kavinda99ac@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
