@@ -11,8 +11,6 @@
 <!-- ====================== ABOUT ====================== -->
 <h3 align="center">🚀 About Me</h3>
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="90" alt="About me" />
-
 I'm a **Full Stack Developer** specialising in **React, Next.js, Node.js and PostgreSQL**, with a designer's eye for detail. I enjoy turning ideas into clean, efficient, and user-friendly web applications, from the first concept to a deployed product.
 
 - 🔭 Building full-stack apps with **Next.js, Node.js & PostgreSQL**
